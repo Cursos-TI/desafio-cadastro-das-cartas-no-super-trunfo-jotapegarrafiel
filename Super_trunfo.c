@@ -175,6 +175,7 @@ int main(){
         case 2:
             // Mensagem de despedida
             printf("Obrigado por jogar! Até a próxima!\n");
+            printf("Desenvolvido por: João Pedro Garrafiel\n");
             return 0; 
     }
     }
